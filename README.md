@@ -1,0 +1,1 @@
+This is a basic chatbot that was created to shwcase how libaries work and what happens under the hood for a non Machiene learning chatbot. In the future I will be creating a chatbot that utilizes NLTK for a learning model.
